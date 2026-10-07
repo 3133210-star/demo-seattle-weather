@@ -23,7 +23,7 @@ full_df = vega_datasets.data("seattle_weather")
 
 st.set_page_config(
     # Title and icon for the browser's tab bar:
-    page_title="Seattle Weather",
+    page_title="Ladywood Environmental Risk Dashboard",
     page_icon="🌦️",
     # Make the content take up the width of the page:
     layout="wide",
@@ -31,9 +31,9 @@ st.set_page_config(
 
 
 """
-# Seattle Weather
+# Ladywood Environmental Risk Dashboard
 
-Let's explore the [classic Seattle Weather
+Let's explore the [classic Ladywood Environmental Risk Dashboard
 dataset](https://altair-viz.github.io/case_studies/exploring-weather.html)!
 """
 
